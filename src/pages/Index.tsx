@@ -9,7 +9,7 @@ const Index = () => {
         {/* Header */}
         <header className="text-center space-y-2 pb-2">
           <h1 className="font-serif text-4xl md:text-5xl font-bold text-foreground tracking-tight">
-
+            אהבת יהוה בכל לבבך
           </h1>
           <p className="text-muted-foreground font-sans text-lg">
             Your daily companion for Scripture, writing & reflection
