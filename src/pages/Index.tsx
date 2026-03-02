@@ -9,7 +9,7 @@ const Index = () => {
         {/* Header */}
         <header className="text-center space-y-2 pb-2">
           <h1 className="font-serif text-4xl md:text-5xl font-bold text-foreground tracking-tight">
-            Daily Bread
+
           </h1>
           <p className="text-muted-foreground font-sans text-lg">
             Your daily companion for Scripture, writing & reflection
@@ -28,8 +28,8 @@ const Index = () => {
           <p className="font-serif italic">"Your word is a lamp for my feet, a light on my path." — Psalm 119:105</p>
         </footer>
       </div>
-    </div>
-  );
+    </div>);
+
 };
 
 export default Index;
